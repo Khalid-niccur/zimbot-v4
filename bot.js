@@ -33,17 +33,17 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['923470027813','923191089077','27739958612'] //owner number +27634090203
+global.wame = ['923470027813'] 
+global.pemilik = ['923470027813'] //owner number +27634090203
+global.premium = ['923470027813'] //premium number +27634090203
+global.pengguna = 'Ikratos' //username
+global.footer = 'ᴡʰᵃᵗˢᵃᵖᵖ 𝔹OT 🇧 🇾  𝕬𝖍𝖒𝖆𝖉 𝕬𝖑𝖎'
+global.botnma = '༼𝖝«𝕴𝖐⃮𝖗⃛𝖆𝖙⃭𝖔⃩𝖘»༽𝖝' //bot name
+global.botname = '༼𝖝«𝕴𝖐⃮𝖗⃛𝖆𝖙⃭𝖔⃩𝖘»༽𝖝'
+global.ownernma = 'Ahmad Ali' //owner name
+global.packname = 'x_Ikratos_x' //sticker package name
+global.author = 'Ahmad Ali' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
@@ -55,7 +55,7 @@ global.available = false
 global.unavailable = true
 global.limittot = 100,
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.reactmoji = '🇵🇰'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
@@ -72,21 +72,21 @@ global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
-    success: 'Takaenda Done!',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    success: 'Lol🤣🏆 Done!',
+    admin: '*This feature is only for admin! I can feel you but sorry ok*',
+    botAdmin: '*Could you please give the bot adminship first!*',
+    owner: '*this feature is only for bot owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment bot proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100000 //free user limit
+    free: Infinity //free user limit
 }
 global.rpg = {
 darahawal: 100,
