@@ -33,17 +33,17 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['923470027813','923191089077','27739958612'] //owner number +27634090203
+global.owner = ['254712913436','154114098508','254114098508'] //owner number  +27634090203
 global.wame = ['923470027813'] 
-global.pemilik = ['923470027813'] //owner number +27634090203
-global.premium = ['923470027813'] //premium number +27634090203
-global.pengguna = 'Ikratos' //username
-global.footer = 'ᴡʰᵃᵗˢᵃᵖᵖ 𝔹OT 🇧 🇾  𝕬𝖍𝖒𝖆𝖉 𝕬𝖑𝖎'
+global.pemilik = ['254712913436'] //owner number +27634090203
+global.premium = ['254114098508'] //premium number +27634090203
+global.pengguna = 'Khalid' //username
+global.footer = 'ᴡʰᵃᵗˢᵃᵖᵖ 𝔹OT 🇧 🇾  KHALID'
 global.botnma = '༼𝖝«𝕴𝖐⃮𝖗⃛𝖆𝖙⃭𝖔⃩𝖘»༽𝖝' //bot name
 global.botname = '༼𝖝«𝕴𝖐⃮𝖗⃛𝖆𝖙⃭𝖔⃩𝖘»༽𝖝'
-global.ownernma = 'Ahmad Ali' //owner name
+global.ownernma = 'KHALID' //owner name
 global.packname = 'x_Ikratos_x' //sticker package name
-global.author = 'Ahmad Ali' //sticker author name
+global.author = 'KHALiD' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
